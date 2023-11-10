@@ -1,0 +1,90 @@
+[{
+      "price": "3,000",
+      "primaryURL":"./img/p1.jpg",
+      "Address":"8083 W 121st Teerace, Overland Park, Kansas 66213",
+      "id": "7001001",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"1,420",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p2.jpg",
+      "id": "7001002",
+      "price": "2,150",
+      "Address": "505 E 133rd st. Overland Park, Kansas 66213",
+      "bds":"3",
+      "ba":"2",
+      "sqft":"1,530",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p3.jpg",
+      "id": "7001003",
+      "price": "1455",
+      "Address": "400 St Monica Ave. Overland Park, Kansas 66213",
+      "bds":"2",
+      "ba":"2",
+      "sqft":"2,130",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p4.jpg",
+      "id": "7001004",
+      "price": "6900",
+      "Address": "680 S Antioch Road Overland Park, Kansas 66213",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"2,130",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "price": "4,000",
+      "primaryURL":"./img/p5.jpg",
+      "Address":"946 N 187th Teerace, Overland Park, Kansas 66213",
+      "id": "7001005",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"1,820",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "price": "4,200",
+      "primaryURL":"./img/p6.jpg",
+      "Address":"946 N 187th Teerace, Overland Park, Kansas 66213",
+      "id": "7001006",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"1,825",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "price": "3,800",
+      "primaryURL":"./img/p7.jpg",
+      "Address":"789 N 138th Teerace, Overland Park, Kansas 66213",
+      "id": "7001007",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"1,900",
+      "agent":"John LLC",
+      "type":"House"
+    },
+    {
+      "price": "4,300",
+      "primaryURL":"./img/p8.jpg",
+      "Address":"446 N 178th Teerace, Overland Park, Kansas 66213",
+      "id": "7001008",
+      "bds":"3",
+      "ba":"3",
+      "sqft":"1,820",
+      "agent":"John LLC",
+      "type":"House"
+    }
+  ]
+
